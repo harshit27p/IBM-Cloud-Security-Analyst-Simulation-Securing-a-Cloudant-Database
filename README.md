@@ -99,3 +99,8 @@ By the end of this simulation, you will learn how to:
     IBM Security and Compliance Center
 
     IBM SkillsBuild Platform
+
+---
+## 📚 References
+
+- [IBM SkillsBuild: You're a Cloud Security Analyst](https://skills.yourlearning.ibm.com/activity/MDL-306)
