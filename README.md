@@ -101,7 +101,8 @@ By the end of this simulation, you will learn how to:
     IBM SkillsBuild Platform
 
 ---
-## 📚 References
+## 🔗 Related Learning Activities
 
-- 🧠 IBM SkillsBuild Course: You're a Cloud Security Analyst
-- 📘 Learning Plan: Cloud Security Analyst Learning Plan
+- [IBM Cloud Security Analyst Simulation – Activity Link](https://skills.yourlearning.ibm.com/activity/MDL-306)
+- [Full Learning Plan: Securing a Cloudant Database](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3?focuslmsId=MDL-306)
+
