@@ -68,7 +68,6 @@ By the end of this simulation, you will learn how to:
 
 ## 📂 Repository Structure
 
-```bash
 📁 ibm-cloud-security-simulation/
 ├── 📄 README.md
 ├── 📄 simulation-transcript.md   # Full step-by-step transcript (if exported)
@@ -77,7 +76,7 @@ By the end of this simulation, you will learn how to:
 └── 📁 docs/
     └── 📝 cloudant-security-report-summary.md
 
-🔐 Security Concepts Reinforced
+## 🔐 Security Concepts Reinforced
 
     IAM: Identity and role-based access control
 
@@ -89,7 +88,7 @@ By the end of this simulation, you will learn how to:
 
     Compliance-as-code: Use controls & scans to automate checks
 
-📈 Benefits of the Simulation
+## 📈 Benefits of the Simulation
 
     Learn real-world secure deployment patterns
 
@@ -99,7 +98,7 @@ By the end of this simulation, you will learn how to:
 
     Practice incident response readiness with test reports
 
-🤝 Acknowledgements
+## 🤝 Acknowledgements
 
     IBM Cloudant
 
