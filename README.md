@@ -103,4 +103,5 @@ By the end of this simulation, you will learn how to:
 ---
 ## 📚 References
 
-- [IBM SkillsBuild: You're a Cloud Security Analyst](https://skills.yourlearning.ibm.com/activity/MDL-306)
+- 🧠 IBM SkillsBuild Course: You're a Cloud Security Analyst
+- 📘 Learning Plan: Cloud Security Analyst Learning Plan
