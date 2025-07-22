@@ -66,17 +66,6 @@ By the end of this simulation, you will learn how to:
 
 ---
 
-## 📂 Repository Structure
-```bash
-📁 ibm-cloud-security-simulation/
-├── 📄 README.md
-├── 📄 simulation-transcript.md   # Full step-by-step transcript (if exported)
-├── 📄 secure-cloudant-checklist.md # Key security settings checklist
-├── 📁 screenshots/               # Optional: Screenshots from simulation
-└── 📁 docs/
-    └── 📝 cloudant-security-report-summary.md
-
---- 
 ## 🔐 Security Concepts Reinforced
 
     IAM: Identity and role-based access control
@@ -88,6 +77,7 @@ By the end of this simulation, you will learn how to:
     Least Privilege: Grant only necessary access
 
     Compliance-as-code: Use controls & scans to automate checks
+
 ---
 ## 📈 Benefits of the Simulation
 
@@ -98,6 +88,7 @@ By the end of this simulation, you will learn how to:
     Gain insights into cloud-native compliance practices
 
     Practice incident response readiness with test reports
+
 ---
 ## 🤝 Acknowledgements
 
